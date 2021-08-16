@@ -1,6 +1,6 @@
 I’m @salar-shdk
 <a href="https://github.com/salar-shdk"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsalar-shdk&longCache=true"/></a>
-<a href="https://t.me/salar_shdk"><img align="right" alt="Telegram" src="https://img.shields.io/badge/amir.shdk-C6D1D9?logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/salar_shdk"><img align="right" alt="Telegram" src="https://img.shields.io/badge/salar_shdk-C6D1D9?logo=telegram&logoColor=white"/></a>
 
 ```python
 class salar:
