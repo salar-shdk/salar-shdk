@@ -5,17 +5,20 @@ I’m @salar-shdk
 ```python
 class salar:
   def __init__(self):
-    pass
+    update_christ_brithdate(datetime(1998, 5, 14))
   
   def get_bio(self):
     return {
         'looking_to_collaborate_on' : 'arch & openbox projects, AI & computer science papers, cool projects (python)',
-        'currently_learning'        : 'machine learning, artificial inteligence',
+        'currently_learning'        : 'machine learning, artificial inteligence' 'golang',
         'ask_me_about'              : 'python, linux',
         }
    
+  def __del__(self):
+    raise NotImplementedError()
+    
   def __repr__(self):
-    return 'GOD'
+    return 'ᗧ . . . ᗣ . .'
 
 ```
 
