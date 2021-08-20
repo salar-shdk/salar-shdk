@@ -5,7 +5,7 @@ I’m @salar-shdk
 ```python
 class salar:
   def __init__(self):
-    update_christ_brithdate(datetime(1998, 5, 14))
+    update_unix_time_start(datetime(1998, 5, 14))
   
   def get_bio(self):
     return {
