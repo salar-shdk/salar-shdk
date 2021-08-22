@@ -5,12 +5,12 @@ I’m @salar-shdk
 ```python
 class salar:
   def __init__(self):
-    update_unix_time_start(datetime(1998, 5, 14))
+    birth_date = 895104000
   
   def get_bio(self):
     return {
         'looking_to_collaborate_on' : 'arch & openbox projects, AI & computer science papers, cool projects (python)',
-        'currently_learning'        : 'machine learning, artificial inteligence' 'golang',
+        'currently_learning'        : 'machine learning, artificial inteligence, golang',
         'ask_me_about'              : 'python, linux',
         }
    
