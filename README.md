@@ -9,9 +9,8 @@ class salar:
   
   def get_bio(self):
     return {
-        'looking_to_collaborate_on' : 'arch & openbox projects, AI & computer science papers, cool projects (python)',
-        'currently_learning'        : 'machine learning, artificial inteligence, golang',
-        'ask_me_about'              : 'python, linux',
+        'currently_learning'        : 'computer graphics, deep learning',
+        'ask_me_about'              : 'python, linux, cpp', 
         }
    
   def __del__(self):
